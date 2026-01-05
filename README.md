@@ -1,6 +1,6 @@
 # Daegeun Kim
 
-Data Scientist · Computational Designer · Geospatial Analytics
+Data Scientist · Data Driven Designer · Computational Designer · Geospatial Analytics
 
 ---
 
