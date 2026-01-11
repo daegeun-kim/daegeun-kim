@@ -17,10 +17,10 @@ Before graduate school, I worked across **South Korea, Hungary, and the United S
 
 ## What I Work On
 
-- 🗺️ Geospatial data querying and spatial analytics  
-- 🤖 Machine learning for urban and real-estate insights  
-- 🧠 LLM-assisted analytical workflows  
-- 🧩 Python tooling for data preparation and merging  
+- 🗺️ Geospatial data analysis and machine learning 
+- 🤖 Statistical learning for urban and real-estate insights  
+- 🧠 LLM-assisted geospatial tool development
+- 🧩 Python package development for data preparation and merging  
 
 ---
 
