@@ -19,7 +19,7 @@ Before graduate school, I worked across **South Korea, Hungary, and the United S
 
 - 🗺️ Geospatial data analysis and machine learning 
 - 🤖 Statistical learning for urban and real-estate insights  
-- 🧠 LLM-assisted geospatial tool development
+- 🧠 LLM-assisted geospatial / real estate tool development
 - 🧩 Python package development for data preparation and merging  
 
 ---
