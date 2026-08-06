@@ -1,34 +1,34 @@
 # Daegeun Kim
 
-Data Scientist · Data Driven Designer · Computational Designer · Geospatial Analytics
+Design Technologist · AL/ML Engineer · Computational Designer
 
 ---
 
 ## About
 
-I am a data scientist and computational designer with a background in architecture and construction.  
-I am currently pursuing an **M.S. in Computational Design Practices** at **Columbia University**.
+I am a design technologist and AI/ML engineer with a background in architecture and construction.  
+I hold an **M.S. in Computational Design Practices** from **Columbia University**.
 
-My work focuses on **data-driven design**, **geospatial analysis**, and **LLM-assisted analytical systems** for urban and real-estate decision-making. I am particularly interested in how computational methods can reduce the gap between complex analytical tools and real-world usability.
+My work explores how **AI, computation, and data-driven methods** can create new possibilities for the AEC industries and spatial research. I develop systems across scales—from **BIM and building information retrieval** to **computer vision, geospatial analysis, and interactive spatial tools**.
 
-Before graduate school, I worked across **South Korea, Hungary, and the United States**, managing large-scale construction projects and contributing to architectural design teams. This experience shapes how I approach data: grounded in real constraints, execution, and decision-making.
+I currently work independently with startup clients on **AI and automation solutions for AEC**, while continuing to develop research-driven tools and open-source projects. My previous experience in architectural design and large-scale construction informs how I approach technology: as a way to connect complex spatial information with practical design and decision-making.
 
 ---
 
 ## What I Work On
 
-- 🗺️ Geospatial data analysis and machine learning 
-- 🤖 Statistical learning for urban and real-estate insights  
-- 🧠 LLM-assisted geospatial / real estate tool development
-- 🧩 Python package development for data preparation and merging  
+- 🏗️ AI, LLM, and retrieval systems for BIM and AEC workflows
+- 🧠 Machine learning and computer vision for spatial and design data
+- 🗺️ Geospatial analysis, urban modeling, and spatial visualization
+- 🧩 Computational design, automation, and interactive tool development
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- Computational design systems  
-- Applied data science & machine learning  
-- Scalable geospatial pipelines  
+- Natural-language interaction with complex BIM and spatial data
+- Computer vision pipelines connecting raster, vector, and CAD representations
+- AI-assisted tools for architecture, engineering, and construction
 
 ---
 
